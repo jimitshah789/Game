@@ -1,0 +1,26 @@
+.green{
+ 	color : green;
+ }
+.ui.inverted.menu p{
+	color: white;
+	padding-top: 10px;
+	padding-right: 5px;
+	padding-left: 5px;
+}
+.ui.inverted.menu{
+	padding-left: 42%;
+}
+#top{
+	text-align: center;
+	padding-bottom: 20px;
+}
+.pButtons{
+	padding-bottom: 20px;
+}
+#spanP1{
+	font-size: 50px;
+}
+#spanP2{
+	font-size: 50px;
+}
+
